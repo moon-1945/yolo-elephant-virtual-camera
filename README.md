@@ -2,6 +2,10 @@
 
 This project builds a custom YOLO-based elephant detector from the OpenImages dataset and streams the detections (along with other filter options like grayscale, mirror, and raw) to virtual webcams using **UnityCapture** and **pyvirtualcam**.
 
+Below is an example of the active YOLO virtual camera filter being used as the video input inside a Zoom call to detect and count objects in real-time:
+
+![YOLO Virtual Camera in Zoom](example.jpg)
+
 ---
 
 ## Features
