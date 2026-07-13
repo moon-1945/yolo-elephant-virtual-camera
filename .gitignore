@@ -1,0 +1,12 @@
+# IDEs and editors
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# Dataset
+elephant_dataset/

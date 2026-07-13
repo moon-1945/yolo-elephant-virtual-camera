@@ -1,0 +1,9 @@
+torch
+ultralytics
+opencv-python
+numpy
+pyvirtualcam
+datasets
+tqdm
+matplotlib
+ipykernel
